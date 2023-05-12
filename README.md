@@ -2,7 +2,7 @@
 
 A habit tracker app project in which user can add habit and track all the previous six days status.
 
-## My site is live at https://agarwalshashankjan.github.io/albumListApp/
+## My site is live at https://agarwalshashankjan.github.io/HabitTracker/
 
 `Last deployed by @agarwalshashankjan agarwalshashankjan`
 
